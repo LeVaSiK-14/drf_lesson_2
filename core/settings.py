@@ -17,11 +17,11 @@ DEBUG = env('DEBUG')
 ALLOWED_HOSTS = []
 
 
-{
-    "username": "LeVaSiK001",
-    "email": "lev201611@gmail.com",
-    "password": "147258qaz!"
-}
+# {
+#     "username": "LeVaSiK001",
+#     "email": "lev201611@gmail.com",
+#     "password": "147258qaz!"
+# }
 
 
 # Application definition
